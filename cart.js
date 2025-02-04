@@ -1,7 +1,7 @@
 const get = localStorage.getItem("cartProducts")
 
 if(!get){
-alert("cart is empty")
+// alert("cart is empty")
 }
 
 else{
